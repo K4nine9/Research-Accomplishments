@@ -1,6 +1,6 @@
-# 嶋津 瑛 (Hikaru Shimadzu)筑波大学
+# 嶋津 瑛 (Hikaru Shimadzu)
 
-システム情報工学研究群 知能機能システム学位プログラム 博士前期課程
+筑波大学 システム情報工学研究群 知能機能システム学位プログラム 博士前期課程
 
 - Email: `s2520774[at]u.tsukuba.ac.jp`
 - GitHub: K4nine9
